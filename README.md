@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-A Cloud☁️ & Data Enthusiast🛢️📊
+A Cloud ☁️ & Data Enthusiast 🛢️ with Business Acumen 📊
 </h2>
 
 <ul dir="auto">
