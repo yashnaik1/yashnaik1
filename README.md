@@ -104,7 +104,7 @@ A Cloud ☁️ & Data Enthusiast 🛢️ with Business Acumen 📊
 <p dir="auto">💼 My Portfolio Link- <a href="https://yashnaik1.github.io/" rel="nofollow">https://yashnaik1.github.io/</a></p>
 </li>
 <li>
-<p dir="auto">📑 Resume/CV- In Progress <!--<a href="https://drive.google.com/file/d/1R00P7WpFXjdNSts1e3muRJjZvEaR_dP-/view?usp=sharing" rel="nofollow">https://drive.google.com/file/d/1R00P7WpFXjdNSts1e3muRJjZvEaR_dP-/view?usp=sharing</a>--></p>
+<p dir="auto">📑 Resume/CV- <a href="[https://drive.google.com/file/d/1R00P7WpFXjdNSts1e3muRJjZvEaR_dP-/view?usp=sharing]([https://drive.google.com/file/d/1qcsyN85xFcfmO2D_Iby1PCYCXyDlPzJn/view?usp=sharing](https://drive.google.com/file/d/1qcsyN85xFcfmO2D_Iby1PCYCXyDlPzJn/view?usp=sharing))" rel="nofollow">[https://drive.google.com/file/d/1R00P7WpFXjdNSts1e3muRJjZvEaR_dP-/view?usp=sharing](https://drive.google.com/file/d/1qcsyN85xFcfmO2D_Iby1PCYCXyDlPzJn/view?usp=sharing)</a></p>
 </li>
 <li>
 <p dir="auto">👨🏻‍💼 LinkedIn Profile- <a href="https://www.linkedin.com/in/yashnaik0027/" rel="nofollow">https://www.linkedin.com/in/yashnaik0027/</a></p>
