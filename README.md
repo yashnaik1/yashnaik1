@@ -3,12 +3,12 @@
 </h1>
 
 <h2 align="center">
-A Tech Enthusiast 💻 with Business Acumen 📊
+A Software Developer 💻 
 </h2>
 
 <ul dir="auto">
 <li>
-<p dir="auto">🔭 I'm looking for Full Stack Development & Data Engineering Roles</p>
+<p dir="auto">🔭 I'm looking for Full Stack Development Role</p>
 </li>
   
 <li>
@@ -34,10 +34,10 @@ A Tech Enthusiast 💻 with Business Acumen 📊
   
 <li>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate">
-  <code>Programming Languages & Frameworks - Python, JavaScript, ReactJS, Django.</code>
+  <code>Programming Languages & Frameworks - Java, Python, JavaScript, SpringBoot, ReactJS, NodeJS.</code>
 </pre>
   <div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w" value=" Programming Languages & Frameworks - Python, JavaScript, ReactJS, Django." tabindex="0" role="button">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w" value=" Programming Languages & Frameworks - Java, Python, JavaScript, SpringBoot, ReactJS, NodeJS." tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
@@ -66,10 +66,10 @@ A Tech Enthusiast 💻 with Business Acumen 📊
 
 <li>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate">
-  <code>IBM Statistics & Advance Excel.</code>
+  <code>CI/CD.</code>
 </pre>
   <div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w" value=" Advance Excel - IBM Statistics & Advance Excel" tabindex="0" role="button">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w" value=" CI/CD." tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
