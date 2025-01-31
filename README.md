@@ -8,7 +8,7 @@ A Software Developer 💻
 
 <ul dir="auto">
 <li>
-<p dir="auto">🔭 I'm looking for Full Stack Development Role</p>
+<p dir="auto">🔭 I'm looking for Full-Stack/Data/AI/ML Role</p>
 </li>
   
 <li>
