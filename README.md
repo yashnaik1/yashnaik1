@@ -101,9 +101,6 @@ A Software Developer 💻
 </li>
 
 <li>
-<p dir="auto">💼 My Portfolio Link- <a href="https://yashnaik1.github.io/" rel="nofollow">https://yashnaik1.github.io/</a></p>
-</li>
-<li>
 <p dir="auto">👨🏻‍💼 LinkedIn Profile- <a href="https://www.linkedin.com/in/yashnaik0027/" rel="nofollow">https://www.linkedin.com/in/yashnaik0027/</a></p>
 </li>
 <li>
