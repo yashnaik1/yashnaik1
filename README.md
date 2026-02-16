@@ -34,7 +34,7 @@ A Software Developer 💻
   
 <li>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate">
-  <code>Programming Languages & Frameworks - Java, Python, JavaScript, SpringBoot, ReactJS, NodeJS.</code>
+  <code>Programming Languages & Frameworks - C#, Java, Python.</code>
 </pre>
   <div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0" data-copy-feedback="Copied!" data-tooltip-direction="w" value=" Programming Languages & Frameworks - Java, Python, JavaScript, SpringBoot, ReactJS, NodeJS." tabindex="0" role="button">
